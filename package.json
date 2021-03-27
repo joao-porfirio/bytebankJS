@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Bytebank Project for clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoDv/bytebankJS.git"
+  },
+  "author": "Joao Porfirio",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joaoDv/bytebankJS/issues"
+  },
+  "homepage": "https://github.com/joaoDv/bytebankJS#readme"
+}
